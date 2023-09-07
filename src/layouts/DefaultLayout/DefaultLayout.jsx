@@ -1,3 +1,4 @@
+import React from "react";
 import Header from '~/layouts/components/Header/Header';
 import Footer from '~/layouts/components/Footer/Footer';
 
